@@ -5,4 +5,5 @@ Offentlige sider til App Store og Google Play. App-koden ligger i et eget, priva
 Etter at GitHub Pages er slått på:
 
 - Personvern: https://pissten.github.io/pabanen-sider/privacy.html
+- Vilkår: https://pissten.github.io/pabanen-sider/terms.html
 - Support: https://pissten.github.io/pabanen-sider/support.html
